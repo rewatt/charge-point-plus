@@ -1,21 +1,20 @@
 {
-  "name": "meteor-react",
-  "version": "1.0.0",
-  "description": "This is an example of a Meteor + React",
-  "main": "main.js",
+  "name": "charge-point-plus",
+  "version": "0.0.1",
+  "description": "This is an Wechat web site",
   "scripts": {
     "start": "meteor",
     "shell": "meteor shell"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ethaan/playground/tree/master/react"
+    "url": "https://github.com/rewatt/charge-point-plus/app"
   },
   "keywords": [
     "react",
     "meteor"
   ],
-  "author": "ethaan",
+  "author": "re-watt",
   "license": "MIT",
   "dependencies": {
     "react": "0.14.7",

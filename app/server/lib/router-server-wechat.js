@@ -33,3 +33,8 @@ Picker.route(URL_PREFFIX + '/wechat/callback/verifyhost', function(params, req, 
     console.log ('resultStr:' + resultStr)
     res.end(resultStr);
 });
+
+
+Picker.route(URL_PREFFIX + '/wechat/params', function(params, req, res, next) {
+    res.end(process.env.WECHAT_APP_ID);
+});
