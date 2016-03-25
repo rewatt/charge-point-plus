@@ -55,6 +55,7 @@ mongo-id@1.0.1
 npm-mongo@1.4.40-modules.8
 observe-sequence@1.0.8-modules.8
 ordered-dict@1.0.4
+pauldowman:dotenv@1.0.1
 poetic:materialize-scss@1.97.5_1
 promise@0.5.2-modules.8
 random@1.0.6-modules.8
