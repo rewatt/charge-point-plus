@@ -42,6 +42,7 @@ meteor@1.1.11-modules.8
 meteor-base@1.0.1
 meteor-env-dev@0.0.1-modules.8
 meteor-env-prod@0.0.1-modules.8
+meteorhacks:picker@1.0.3
 minifiers-css@1.1.8-modules.8
 minifiers-js@1.1.8-modules.8
 minimongo@1.0.11-modules.8
