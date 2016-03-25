@@ -25,6 +25,7 @@
     "react-weui": "^0.2.0",
     "wechat-api": "1.27.1",
     "wechat-oauth": "^1.1.1",
-    "weui": "^0.4.0"
+    "weui": "^0.4.0",
+    "crypto-js": "^3.1.6"
   }
 }
