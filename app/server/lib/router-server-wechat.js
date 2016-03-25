@@ -4,8 +4,10 @@ Picker.route('/wechat/post/:_id', function(params, req, res, next) {
 
 var SHA1 = Npm.require('crypto-js/sha1');
 
+var URL_PREFFIX = '/cpplus';
+
 /* wechat api - verify host */
-Picker.route('/wechat/callback/verifyhost', function(params, req, res, next) {
+Picker.route(URL_PREFFIX + '/wechat/callback/verifyhost', function(params, req, res, next) {
     var signature = params.signature;
     var timestamp = params.timestamp;
     var nonce = params.nonce;
